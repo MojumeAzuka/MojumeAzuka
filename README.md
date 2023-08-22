@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MojumeAzuka
 - 👀 I’m interested in mobile application development
 - 🌱 I’m currently learning mobile application development
-- 💞️ I’m looking to collaborate on mobile application development
+- 💞️ I’m looking to collaborate on mobile application development projects
 - 📫 How to reach me azmojumeeforazstcorp@gmail.com
 
 <!---
